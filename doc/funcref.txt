@@ -1,4 +1,4 @@
-*funcref*   create lazier function references. Pass arguments to create closure
+/**funcref*   create lazier function references. Pass arguments to create closure*/
             like function calls
                     Author: Marc Weber, marco-oweber@gmx.de
 
